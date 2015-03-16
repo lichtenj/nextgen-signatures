@@ -1,0 +1,1 @@
+In order to support a wide variety of high-throughput sequencing related experiments a modularized pipeline was developed. This pipeline is geared towards the integration of techniques and knowledge repositories from the entire spectrum of systems biology.
